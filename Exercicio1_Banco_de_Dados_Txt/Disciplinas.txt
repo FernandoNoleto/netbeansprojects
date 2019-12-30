@@ -1,0 +1,3 @@
+Cod: 1 Disciplina: Calculo 1 Carga Horária: 60 Período: 1
+Cod: 2 Disciplina: Estrutura de Dados 1 Carga Horária: 60 Período: 2
+Cod: 3 Disciplina: Fisica 2 Carga Horária: 60 Período: 3
